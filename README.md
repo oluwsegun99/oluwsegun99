@@ -5,9 +5,9 @@
   <a href="https://www.linkedin.com/in/favour-obafemi/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/favour-obafemi//" alt="LinkedIn" />
   </a>
-  <a href="https://x.com/favobafemi">
+<!--   <a href="https://x.com/favobafemi">
     <img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://x.com/favobafemi" alt="Twitter" />
-  </a>
+  </a> -->
   <a href="mailto:obafemifavour@gmail.com">
     <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:obafemifavour@gmail.com" alt="Email" />
   </a>
@@ -94,9 +94,9 @@
   <a href="https://www.linkedin.com/in/favour-obafemi/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/favour-obafemi/" alt="LinkedIn" />
   </a>
-  <a href="https://x.com/favobafemi">
+<!--   <a href="https://x.com/favobafemi">
     <img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://x.com/favobafemi" alt="Twitter" />
-  </a>
+  </a> -->
   <a href="mailto:obafemifavour@gmail.com">
     <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:obafemifavour@gmail.com" alt="Email" />
   </a>
